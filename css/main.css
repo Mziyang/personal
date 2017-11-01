@@ -1,3 +1,11 @@
 a{
     color: aqua;
 }
+ul li{
+    list-style: none;
+}
+.left3{
+    width: 30%;
+    background-color: aqua;
+
+  }

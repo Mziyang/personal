@@ -15,3 +15,29 @@ want to connect to the database, store the information in the database,
 */
 ?>
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Progress</title>
+    <link rel="stylesheet" href="css/main.css">
+</head>
+<body>
+<div class="class left3">
+    <ul>
+        <li>class1</li>
+        <li>class2</li>
+        <li>class3</li>
+        <li>class4</li>
+        <li>class5</li>
+    </ul>
+</div>
+<div class="object left3">
+    some
+</div>
+<div class="progress"></div>
+<div class="link"></div>
+<div class="notes"></div>
+<a href="#">Tst</a>
+</body>
+</html>
